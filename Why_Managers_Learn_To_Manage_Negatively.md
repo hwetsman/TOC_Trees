@@ -36,6 +36,6 @@ human_perception(Humans perceive better variations <br>in performance to stem fr
         and6(and)
           managers_punish--->and6
           managers_praise--->and6
-        managers_over_time(Managers, over time, <br>will learn to manage <br>by punishing bad behavior <br>rather than by rewarding <br>good behavior)
+        managers_over_time(Managers, over time, <br>will learn through <br>incentive to manage <br>by punishing bad behavior <br>rather than by rewarding <br>good behavior)
           and6--->managers_over_time
 ````
