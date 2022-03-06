@@ -29,9 +29,9 @@ human_perception(Humans perceive better variations <br>in performance to stem fr
         reversion--->and4
         reversion--->and5
         better_outcomes--->and5
-      managers_punish(Managers who punish <br>worse than average outcomes <br>will perceive reward <br>for their behavior)
+      managers_punish(Managers who punish <br>worse than average outcomes <br>will perceive positive <br>incentive for their <br>behavior)
         and4--->managers_punish
-      managers_praise(Managers who praise <br>above average outcomes will <br>perceive punishment <br>for their behavior)
+      managers_praise(Managers who praise <br>above average outcomes will <br>perceive negative incentive <br>for their behavior)
         and5--->managers_praise
         and6(and)
           managers_punish--->and6
