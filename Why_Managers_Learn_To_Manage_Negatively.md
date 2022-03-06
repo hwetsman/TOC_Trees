@@ -20,8 +20,8 @@ human_perception(Humans perceive better variations <br>in performance to stem fr
       managers_belief--->and3
     worse_outcomes(When outcomes are worse than average managers tend to punish)
       and2--->worse_outcomes
-    reversion(Because of reversion to the mean, below average outcomes are likely to be followed by better outcomes and above average outcomes are likely to be followed by worse outcomes)
-    better_outcomes(When outcomes are better than average managers tend to praise)
+    reversion(Because of reversion <br>to the mean, below <br>average outcomes are likely <br>to be followed by better <br>outcomes and above average <br>outcomes are likely to <br>be followed by worse outcomes)
+    better_outcomes(When outcomes are <br>better than average <br>managers tend to praise)
       and3--->better_outcomes
       and4(and)
       and5(and)
@@ -29,13 +29,13 @@ human_perception(Humans perceive better variations <br>in performance to stem fr
         reversion--->and4
         reversion--->and5
         better_outcomes--->and5
-      managers_punish(Managers who punish worse than average outcomes will perceive reward for their behavior)
+      managers_punish(Managers who punish <br>worse than average outcomes <br>will perceive reward <br>for their behavior)
         and4--->managers_punish
-      managers_praise(Managers who praise above average outcomes will perceive punishment for their behavior)
+      managers_praise(Managers who praise <br>above average outcomes will <br>perceive punishment <br>for their behavior)
         and5--->managers_praise
         and6(and)
           managers_punish--->and6
           managers_praise--->and6
-        managers_over_time(Managers, over time, will learn to manage by punishing bad behavior rather than by rewarding good behavior)
+        managers_over_time(Managers, over time, <br>will learn to manage <br>by punishing bad behavior <br>rather than by rewarding <br>good behavior)
           and6--->managers_over_time
 ````
