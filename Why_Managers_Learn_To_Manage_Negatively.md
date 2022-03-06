@@ -10,9 +10,14 @@ human_perception(Humans perceive better variations in performance to stem from v
   human_perception--->and1
   lesser_effort(Managers are taught that lesser effort is blame worthy and will tend to punish it)
   observer_perception(When a human completes a series of repeated tasks, observers will perceive variations in effort)
+    and1--->observer_perception
   managers_belief(Managers believe greater effort is laudable and will tend to praise it)
     and2(and)
     and3(and)
+    observer_perception--->and2
+    observer_perception--->and3
+      lesser_effort--->and2
+      managers_belief--->and3
     worse_outcomes(When outcomes are worse than average managers tend to punish)
     reversion(Because of reversion to the mean, below average outcomes are likely to be followed by better outcomes and above average outcomes are likely to be followed by worse outcomes)
     better_outcomes(When outcomes are better than average managers tend to praise)
