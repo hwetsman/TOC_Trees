@@ -2,16 +2,16 @@
 flowchart TB
 
 human_variability(In any given series of repeated <br>tasks done by a human, there <br>will be variability in the outcome <br>or success of that task)
-above_and_below(In any given series of repeated tasks done by a human there will be times when they perform better than the mean and times when they perform worse than the mean)
+above_and_below(In any given series of <br>repeated tasks done by a <br>human there will be times <br>when they perform better <br>than the mean and times when <br>they perform worse <br>than the mean)
   human_variability--->above_and_below
-human_perception(Humans perceive better variations in performance to stem from variations in effort, concentration, or some other variable managble by the person performing the act - effort)
+human_perception(Humans perceive better variations <br>in performance to stem from <br>variations in effort, <br>concentration, or some <br>other variable managble by <br>the person performing the <br>act - effort)
   and1(and)
   above_and_below--->and1
   human_perception--->and1
-  lesser_effort(Managers are taught that lesser effort is blame worthy and will tend to punish it)
-  observer_perception(When a human completes a series of repeated tasks, observers will perceive variations in effort)
+  lesser_effort(Managers are taught <br>that lesser effort is <br>blame worthy and will <br>tend to punish it)
+  observer_perception(When a human completes <br>a series of repeated <br>tasks, observers will <br>perceive variations in <br>effort)
     and1--->observer_perception
-  managers_belief(Managers believe greater effort is laudable and will tend to praise it)
+  managers_belief(Managers believe greater <br>effort is laudable <br>and will tend to <br>praise it)
     and2(and)
     and3(and)
     observer_perception--->and2
