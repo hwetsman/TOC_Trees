@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TB
+flowchart LR
 
 human_variability(In any given series of repeated <br>tasks done by a human, there <br>will be variability in the outcome <br>or success of that task)
 above_and_below(In any given series of <br>repeated tasks done by a <br>human there will be times <br>when they perform better <br>than the mean and times when <br>they perform worse <br>than the mean)
