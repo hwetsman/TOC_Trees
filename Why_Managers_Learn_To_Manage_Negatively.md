@@ -18,7 +18,7 @@ human_perception(Humans perceive better variations <br>in performance to stem fr
     observer_perception--->and3
       lesser_effort--->and2
       managers_belief--->and3
-    worse_outcomes(When outcomes are worse than average managers tend to punish)
+    worse_outcomes(When outcomes are <br>worse than average managers <br>tend to punish)
       and2--->worse_outcomes
     reversion(Because of reversion <br>to the mean, below <br>average outcomes are likely <br>to be followed by better <br>outcomes and above average <br>outcomes are likely to <br>be followed by worse outcomes)
     better_outcomes(When outcomes are <br>better than average <br>managers tend to praise)
