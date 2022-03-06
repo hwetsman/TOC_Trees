@@ -2,8 +2,7 @@
 flowchart LR
 
 human_variability(In any given series of repeated tasks done by a human, there will be variability in the outcome or success of that task)
-above_and_below(In any given series of repeated tasks done by a human there will be times when they perform better than the mean and times when 
-they perform worse than the mean)
+above_and_below(In any given series of repeated tasks done by a human there will be times when they perform better than the mean and times when they perform worse than the mean)
   human_variability--->above_and_below
 human_perception(Humans perceive better variations in performance to stem from variations in effort, concentration, or some other variable managble by the person performing the act - effort)
   and1(and)
