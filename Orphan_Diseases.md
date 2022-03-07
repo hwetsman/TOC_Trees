@@ -9,4 +9,14 @@ disease(A disease is defined <br>as a disordered or <br>incorrectly functioning 
 and1((and))
     orphan--->and1
     disease--->and1
+every_pt(Every patient has a unique <br>set of organ system <br>dysfunctions leading to <br>illness that is unique <br>regarless of the primary <br>diagnosis they are given)
+and2((and))
+    every_pt--->and2
+    disease--->and2
+
+
+
+
+
+
 ```
