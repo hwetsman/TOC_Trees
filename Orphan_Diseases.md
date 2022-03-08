@@ -42,11 +42,19 @@ and5((and))
     system--->and5
     any_system--->and5
     buffered---and5
+        dysfunction(The dysfunction of any part of a <br>network creates a dysfunction in <br>the network or system though <br> that dysfunction may not be <br>apparent because of robustness <br> of the system or buffering)
+        and5--->dysfunction
+
 age(All biological <br>systems degrade <br>with age)
 limits(All human <br>beings are born <br>with inherent <br>biological <br>limitations)
 and6((and))
     age--->and6
     limits--->and6
+time(All human <br>beings' biological <br>systems get <br>worse with time)
+    and6--->time
+        and7((and))
+        time--->and7
+        dysfunction--->and7
 
     
 
