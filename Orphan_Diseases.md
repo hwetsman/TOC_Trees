@@ -42,6 +42,12 @@ and5((and))
     system--->and5
     any_system--->and5
     buffered---and5
+age(All biological <br>systems degrade <br>with age)
+limits(All human <br>beings are born <br>with inherent <br>biological <br>limitations)
+and6((and))
+    age--->and6
+    limits--->and6
+
     
 
 
