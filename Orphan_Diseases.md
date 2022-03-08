@@ -27,7 +27,13 @@ every_pt3(Every patient <br>has an <br>orphan <br>disease)
 accurate(Accurate personal <br>diagnosis is required <br>in every patient not <brmatter how common <br>their primary <br>diagnosis is)
     every_pt3--->accurate
 
-
+body(A body is made <br>up of and <br>functions as a <br>system of parts)
+systems(A system can appear to be <br>functioning normally <br>if viewed from <br> outside, even if it is <br>not functioning well)
+and4((and))
+    body--->and4
+    systems--->and4
+persons(A person, as a biopsychosocial <br>system, can be buffered or <br> compensated os that the output <br> of the system with regard to any <br>individual diagnosis appears <br>normal, while there is still <br>dysfunction in the system)
+    and4--->persons
 
 
 
