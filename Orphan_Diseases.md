@@ -35,6 +35,14 @@ and4((and))
 persons(A person, as a biopsychosocial <br>system, can be buffered or <br> compensated os that the output <br> of the system with regard to any <br>individual diagnosis appears <br>normal, while there is still <br>dysfunction in the system)
     and4--->persons
 
+system(A system is a <br>network of <br>functioning parts)
+any_system(Any part of <br>a system can <br>malfunction <br> causing system <br>malfunction)
+buffered(Systems can be robust <br>or buffered such that <br>malfunction in a part <br>may not create <br>apprent malfunction of <br>the system)
+and5((and))
+    system--->and5
+    any_system--->and5
+    buffered---and5
+    
 
 
 ```
