@@ -13,7 +13,7 @@ addiction(The person is <br>aware that the <br>problem is <br>addiction)
             vactions(The person is <br>aware that there <br>are no vacations <br>from recovery)
                 alone--->vacations
                 goal(The person <br>has reached <br>full voluntary <br>recovery)
-                    alone--->goal
+                    vacations--->goal
 
 
 
