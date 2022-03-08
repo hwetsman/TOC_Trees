@@ -13,6 +13,7 @@ addiction(The person is <br>aware that the <br>problem is <br>addiction)
             vacations(The person is <br>aware that there <br>are no vacations <br>from recovery)
                 alone--->vacations
                 goal(The person <br>has reached <br>full voluntary <br>recovery)
+                style goal fill:'green'
                     vacations--->goal
 
 
