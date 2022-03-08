@@ -23,6 +23,7 @@ and3((and))
     every_pt2--->and3
     logic--->and3
 every_pt3(Every patient <br>has an <br>orphan <br>disease)
+    and3--->every_pt3
 accurate(Accurate personal <br>diagnosis is required <br>in every patient not <brmatter how common <br>their primary <br>diagnosis is)
     every_pt3--->accurate
 
