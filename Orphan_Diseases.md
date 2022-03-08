@@ -55,6 +55,10 @@ time(All human <br>beings' biological <br>systems get <br>worse with time)
         and7((and))
         time--->and7
         dysfunction--->and7
+            tardive(Illnesses stemming <br>from inherent <br>biological limitations <br>may become <br>apparent with time)
+                and7--->tardive
+                genetic(Illnesses with <br>genetic origin <br>may become <br>apparant later <br>in life)
+                    and7--->genetic
 
     
 
