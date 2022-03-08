@@ -13,7 +13,7 @@ every_pt(Every patient has a unique <br>set of organ system <br>dysfunctions lea
 and2((and))
     every_pt--->and2
     disease--->and2
-OD_def(An OD therefore is a <br>disordered or incorrectly <br> functioning organ, part, <br>structure or system of the <br>body that occurs in less <br>than 200,000 Americans)
+OD_def(An OD is a <br>disordered or incorrectly <br> functioning organ, part, <br>structure or system of the <br>body that occurs in less <br>than 200,000 Americans)
     and1--->OD_def
 every_pt2(Every patient has a <br>unique illness <br>regardless of the <br> primary diagnosis they <br>are given)
     and2--->every_pt2
