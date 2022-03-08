@@ -10,7 +10,7 @@ addiction(The person is <br>aware that the <br>problem is <br>addiction)
         addiction--->chronic
         alone(The person is aware <br>that they cannot prevent <br>symptoms of addiction <br>by themselves)
             chronic--->alone
-            vactions(The person is <br>aware that there <br>are no vacations <br>from recovery)
+            vacations(The person is <br>aware that there <br>are no vacations <br>from recovery)
                 alone--->vacations
                 goal(The person <br>has reached <br>full voluntary <br>recovery)
                     vacations--->goal
