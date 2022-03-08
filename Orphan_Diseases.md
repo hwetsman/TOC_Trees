@@ -1,7 +1,7 @@
 # Orphan Diseases
 
 ```mermaid
-flowchart TD
+flowchart LR
 proposition(Is personalized medicine <br>leading us to an <br>increasingly baysian world <br>where we need hundreds <br>of thousands of <br>separate diagnoses and <br>treatments rather than <br>to a simple place where <br>each person has one problem?)
 
 old_diagnosis(A diagnosis was <br>a category attached to a <br> clinical state intended to <br>direct treatment)
