@@ -23,7 +23,6 @@ flowchart LR
 
 no_thought(The person <br>has not <br>considered <br>the idea)
 thought(The person has <br>considered the <br>idea, but does <br>not accept it)
-barrier()
 
 
 ````
