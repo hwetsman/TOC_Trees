@@ -23,6 +23,8 @@ flowchart LR
 
 no_thought(The person <br>has not <br>considered <br>the idea)
 thought(The person has <br>considered the <br>idea, but does <br>not accept it)
-
+barrier(The person would <br>accept the idea, <br>but there are <br>external barriers)
+commitment(The person <br>accepts the <br>idea)
+style commitment fill:#00FF00
 
 ````
