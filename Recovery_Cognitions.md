@@ -15,7 +15,15 @@ addiction(The person is <br>aware that the <br>problem is <br>addiction)
                 goal(The person <br>has reached <br>full voluntary <br>recovery)
                 style goal fill:#00FF00
                     vacations--->goal
+````
 
+# Four Stages of Cognitive Change
+````mermaid
+flowchart LR
+
+no_thought(The person <br>has not <br>considered <br>the idea)
+thought(The person has <br>considered the <br>idea, but does <br>not accept it)
+barrier()
 
 
 ````
