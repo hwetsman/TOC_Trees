@@ -36,3 +36,7 @@ thought(The person has <br>considered the <br>idea, but does <br>not accept it)
 Cognition|Pre-Thought|Thought|Barrier|Commitment
 ---------:|:----------:|:------:|:-----:|:--------:
 I have a problem|5|6|7|8
+The problem is addiction|8|9|10|11
+Addiction is chronic and progressive|11|12|13|14
+I can't, by myself, prevent the symptoms of the illness|14|15|16|17
+There are no vacations from this recovery|17|18|19|20
