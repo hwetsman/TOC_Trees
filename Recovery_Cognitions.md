@@ -34,5 +34,5 @@ thought(The person has <br>considered the <br>idea, but does <br>not accept it)
 # The Grid
 
 Cognition|Pre-Thought|Thought|Barrier|Commitment
----------|-----------|--------|------|----------
+---------:|:----------:|:------:|:-----:|:--------:
 I have a problem|5|6|7|8
