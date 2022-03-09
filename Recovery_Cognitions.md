@@ -29,6 +29,10 @@ thought(The person has <br>considered the <br>idea, but does <br>not accept it)
         commitment(The person <br>accepts the <br>idea)
         style commitment fill:#00FF00
             barrier--->commitment
-
-
 ````
+
+# The Grid
+
+Cognition|Pre-Thought|Thought|Barrier|Commitment
+---------|-----------|--------|------|----------
+I have a problem|5|6|7|8
