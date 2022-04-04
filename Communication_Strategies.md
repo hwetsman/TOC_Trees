@@ -64,4 +64,8 @@ and2((and))
                 and9((and))
                   attempt---->and9
                   choose---->and9
+                  minimize(Some group speakers <br>try to minimize <br>the number of ideas <br>expressed to lower <br>the activation of <br>reaction functions)
+                  homogenize(Some group speakers <br>try to speak to <br>homogenized groups in <br>order to lower the <br>chance of there <br>being people who find <br>the ideas off-putting)
+                  and9---->minimize
+                  and9---->homogenize
   
