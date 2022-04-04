@@ -26,3 +26,10 @@ and2((and))
       group---->and3
       nonzero---->and3
       and3---->statement_to_group
+  
+  seeking(People seeking to <br>communicate want to <br>impart their ideas)
+  turn_off(When a listener turns <br>off, ideas can no <br>longer be communicated)
+  and4((and))
+  seeking---->and4
+  turn_off---->and4
+  
