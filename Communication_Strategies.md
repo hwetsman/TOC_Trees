@@ -34,4 +34,10 @@ and2((and))
   turn_off---->and4
     communicators(Communicators want <br>to avoid turning off <br>the listener)
     and4---->communicators
+    
+    effectiveness(A communicator's <br>effectiveness is measured <br>by their getting their <br>ideas across)
+    and5((and))
+      statement_to_group---->and5
+      effectiveness---->and5
+      communicators---->and5
   
