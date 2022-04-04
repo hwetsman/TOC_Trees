@@ -8,3 +8,11 @@ communication(A communication is <br>made of one or <br>more statements conveyin
 and1((and))
   every_idea---->and1
   communication---->and1
+
+individuals(Individuals have different <br>reactions to ideas and <br>different levels of tolerance <br>for hearing communications <br>from people expousing <br>off-putting ideas)
+reaction(A reaction function, <br>in this tree, <br>is an individual's reaction <br>to any specific idea)
+threshold(A threshold function, <br>T, is the number of <br>off-putting ideas an <br>individual will tolerate <br>before turning off the <br>communication. A person's <br>T can be affected by <br>internal and external factors)
+and2((and))
+  individuals---->and2
+  reaction---->and2
+  threshold---->and2
