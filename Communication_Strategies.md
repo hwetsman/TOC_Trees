@@ -8,7 +8,7 @@ communication(A communication is <br>made of one or <br>more statements conveyin
 and1((and))
   every_idea---->and1
   communication---->and1
-nonzero(Every statement of a communication has a non-zero chance of putting off a listener)
+nonzero(Every statement of <br>a communication has <br>a non-zero chance of <br>putting off a listener)
   and1---->nonzero
 
 individuals(Individuals have different <br>reactions to ideas and <br>different levels of tolerance <br>for hearing communications <br>from people expousing <br>off-putting ideas)
