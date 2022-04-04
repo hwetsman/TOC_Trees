@@ -43,4 +43,8 @@ and2((and))
       
         choose(Communicators choose <br>various methods of <br>minimizing putting <br>off listeners)
           and5---->choose
+          probability(Probability of individual <br>acceptance of ideas can <br>often be precalculated <br>based on other factors)
+          and6((and))
+            choose---->and6
+            probability---->and6
   
