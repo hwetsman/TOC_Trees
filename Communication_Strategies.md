@@ -61,4 +61,7 @@ and2((and))
               ideas---->and8
               attempt(Any attempt to specify <br>communication to some <br>members of the group <br>may benefit them <br>but will decrease <br>T in some other <br>members)
                 and8---->attempt
+                and9((and))
+                  attempt---->and9
+                  choose---->and9
   
