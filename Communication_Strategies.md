@@ -52,4 +52,6 @@ and2((and))
         and7((and))
           individuals---->and7
           choose---->and7
+          rapport(Some communicators <br>seek to gain rapport <br>with the individual <br>they are speaking <br>to and individualize <br>the order and content <br>of the communication <br>in order to lessen T)
+            and7---->rapport
   
