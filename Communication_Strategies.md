@@ -40,4 +40,7 @@ and2((and))
       statement_to_group---->and5
       effectiveness---->and5
       communicators---->and5
+      
+        choose(Communicators choose <br>various methods of <br>minimizing putting <br>off listeners)
+          and5---->choose
   
