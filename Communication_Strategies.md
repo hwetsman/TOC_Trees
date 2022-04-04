@@ -16,3 +16,5 @@ and2((and))
   individuals---->and2
   reaction---->and2
   threshold---->and2
+  group(A group is made <br>up of individuals <br>that have different <br>reaction and threshold <br>functions)
+    and2---->group
