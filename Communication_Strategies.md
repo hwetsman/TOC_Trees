@@ -20,3 +20,9 @@ and2((and))
   threshold---->and2
   group(A group is made <br>up of individuals <br>that have different <br>reaction and threshold <br>functions)
     and2---->group
+
+    statement_to_group(Every statement of <br>a communication to a <br>group has a non-zero <br>chance of putting off <br>someone in the group)
+    and3((and))
+      group---->and3
+      nonzero---->and3
+      and3---->statement_to_group
