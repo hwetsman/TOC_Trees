@@ -49,4 +49,7 @@ and2((and))
             probability---->and6
             predisposed(Some communicators seek <br>to communicate to <br>individuals that are <br>predisposed to not <br>being putt off by <br>the ideas presented)
               and6---->predisposed
+        and7((and))
+          individuals---->and7
+          choose---->and7
   
